@@ -1,0 +1,6 @@
+7(a)NaN property stands for Not-A-Number. It tells us a number value is not a legal number.It is produced when there is an operation that produces undefined result. E.g dividing any number by 0 is zero.
+  
+7(b) The two types on NaN are;
+-quieT NaN
+-Signaling NaN
+ 
